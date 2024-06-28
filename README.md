@@ -1,4 +1,4 @@
-# Temat: Wypożyczalnia filmów.
+# Wypożyczalnia filmów.
 ## 1.	Zakres i krótki opis systemu
 1. **Cel projektu:** Celem projektu jest stworzenie kompleksowej bazy danych wspierającej działanie fizycznej wypożyczalni filmów. System ma umożliwić zarządzanie dostępnym asortymentem filmów, klientami, wypożyczeniami oraz magazynem.
 2. **Opis systemu:** System bazy danych dla wypożyczalni filmów będzie składał się z kilku głównych modułów:
